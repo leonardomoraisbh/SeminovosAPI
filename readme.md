@@ -10,7 +10,7 @@ The code should be open-sourced in a public repository as the origin of the data
 
 The website seminovosbh.com.br is a local portal to search used cars. We need that stock of cars in our services. To do so, you gone crawl the website.
 
-Using PHP, you must provide a RESTful endpoint to search cars (according the existing filters) and another endpoint to view the details of a selected car.
+Using PHP, you must provide a RESTful endpoint to search the crawled cars (according the existing filters in the website. No need to be all of them, just the main ones) and another endpoint to view the details of a selected car.
 
 Also, you should give to us all the info about how to run and test your API. Tip: A documentation of your API will be very welcome.
 
