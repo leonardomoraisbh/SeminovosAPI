@@ -1,17 +1,9 @@
 # seminovos-simple-api
 
-## System dependencies Linux
+## System dependencies
 
 ```sh
 sudo apt install php7 composer php7-mbstring php7-curl docker docker-compose
-```
-
-## System dependencies Windows
-
-```bash
-1. Open powershell as administrador
-2. Run commmand:  Set-ExecutionPolicy Bypass -Scope Process -Force
-3. Run command: .\setup.ps1 to install packages.
 ```
 
 ## Slim Framework 4 Skeleton Application
@@ -22,7 +14,7 @@ Use this skeleton application to quickly setup and start working on a new Slim F
 
 This skeleton application was built for Composer. This makes setting up a new Slim Framework application quick and easy.
 
-## Criando a aplicação OBS: já está criada.
+## Criando a aplicação
 
 Run this command from the directory in which you want to install your new Slim Framework application.
 
